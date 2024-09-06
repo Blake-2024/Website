@@ -1,0 +1,4 @@
+/* 针对中文内容设定字体 */
+body:lang(zh), h1:lang(zh), h2:lang(zh), h3:lang(zh), h4:lang(zh), h5:lang(zh), h6:lang(zh), p:lang(zh), .non-body-text:lang(zh) {
+    font-family: 'PingFang SC', 'Microsoft YaHei', '微软雅黑', 'Heiti SC', 'WenQuanYi Zen Hei', sans-serif;
+}
